@@ -1,6 +1,7 @@
 {
 	"author": "Victor Vargas",
 	"name": "fcc-learn-npm-package-json",
+	"description": "A project that is teaching me how to build and develop more complex projects",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
